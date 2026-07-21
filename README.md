@@ -3,8 +3,7 @@ Un sistema KVM basato su ESP32-S3 e RPI4 con SPK , MIC, KB , MOUSE, VIDEO
 
 
 
-# 💫 About Me:
-Sono un sistemista informatico specializzato su stack java <br>mi diverto nel creare progetti che posso aiutarmi ad automatizzare<br>qualsiasi cosa sia ripetitiva e noiosa 
+
 
 
 # 💻 Tech Stack:
@@ -13,8 +12,7 @@ Sono un sistemista informatico specializzato su stack java <br>mi diverto nel cr
 ---
 [![](https://komarev.com/ghpvc/?username=RedScorpio83&icon=4&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/redscorpio83) 
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
